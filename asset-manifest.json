@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/INoteBook-App/static/css/main.bf9ed866.css",
+    "main.js": "/INoteBook-App/static/js/main.906e42e8.js",
+    "static/media/tushar.jpg": "/INoteBook-App/static/media/tushar.c359d557b0d126db0503.jpg",
+    "index.html": "/INoteBook-App/index.html",
+    "main.bf9ed866.css.map": "/INoteBook-App/static/css/main.bf9ed866.css.map",
+    "main.906e42e8.js.map": "/INoteBook-App/static/js/main.906e42e8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf9ed866.css",
+    "static/js/main.906e42e8.js"
+  ]
+}
